@@ -3,8 +3,8 @@ A demo for Room
 ## 第一步  `build.gradle`
 ```
  dependencies {
-    compile 'android.arch.persistence.room:runtime:+'
-    annotationProcessor "android.arch.persistence.room:compiler:+"
+     compile 'android.arch.persistence.room:runtime:+'
+     annotationProcessor "android.arch.persistence.room:compiler:+"
  }
 ```
 ## 第二步 `build.gradle`  `javaCompileOptions`
