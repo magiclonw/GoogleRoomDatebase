@@ -1,6 +1,6 @@
 # GoogleRoomDatebase
 * <b>A demo for Room</b>
-***
+
 ## 第一步  `build.gradle`
 ```
  dependencies {
